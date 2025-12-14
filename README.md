@@ -1,6 +1,6 @@
 # whats_application
 
-=it's just ui for chat screen and i well developed another opages later 
+ it's just ui for chat screen and i well developed another pages later 
 
 ## Getting Started
 
