@@ -1,6 +1,6 @@
 # whats_application
 
-whats app
+=it's just ui for chat screen and i well developed another opages later 
 
 ## Getting Started
 
